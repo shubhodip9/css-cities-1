@@ -1,0 +1,35 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+#orange{
+    color:orange;
+}
+#white{
+    color:white;
+}
+#green{
+    color:green;
+}
+.cities{
+    font-weight:bolder;
+}
+#delhi{
+    color:pink;
+}
+#mumbai{
+    color:lightskyblue;
+}
+#kolkata{
+    color:plum;
+}
+#chennai{
+    color:lightblue;
+}
+img[draggable="true"]
+{
+    image-rendering: pixelated;
+    border-image:round;
+    height: 100px;
+    width: 200px;
+}
